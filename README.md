@@ -1,9 +1,13 @@
 # Mobile Friendly Websites
 
+2nd class
+
 ## Description
 
-------------------------------------------------------
-Prerequisites
-1. Take Websites for Beginners class
-2. Enroll in Mobile Friendly Websites class
-------------------------------------------------------
+Learning how to make websites that are fit well on all forms
+
+## Getting Started
+
+### Prereqs
+
+* Websites for Beginners
